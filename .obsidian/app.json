@@ -1,0 +1,15 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "showIndentGuide": true,
+  "livePreview": true,
+  "autoConvertHtml": false,
+  "promptDelete": false
+}

@@ -1,0 +1,14 @@
+{
+  "selectedDiagramTypes": [
+    "flowchart",
+    "sequenceDiagram",
+    "classDiagram",
+    "stateDiagram",
+    "erDiagram",
+    "gantt",
+    "pie",
+    "requirementDiagram",
+    "gitGraph"
+  ],
+  "visibleButton": false
+}

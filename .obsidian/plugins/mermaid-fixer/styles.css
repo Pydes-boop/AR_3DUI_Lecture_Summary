@@ -1,0 +1,61 @@
+.mermaid-fixer-setting-callout {
+    background-color: var(--background-primary);
+    border: 2px solid rgba(var(--callout-warning), 0.3);
+    padding: 20px;
+    border-radius: 12px;
+    display: none
+}
+
+.mermaid-fixer-setting-callout:has(li) {
+    display: block
+}
+
+.mermaid-fixer-setting-callout h3 {
+    font-size: medium;
+    color: rgb(var(--callout-warning));
+    line-height: 1.2;
+    margin: 0
+}
+
+.mermaid-fixer-setting-callout h3 svg {
+    display: inline-block;
+    vertical-align: top;
+    width: 1.4em;
+    margin-right: .6em
+}
+
+.mermaid-fixer-setting-callout ul {
+    margin: 1em 0 0 0;
+    padding: 0 0 0 2em
+}
+
+.mermaid-fixer-setting-callout li {
+    margin: .4em 0;
+    line-height: 1.6
+}
+
+.mermaid-fixer-setting-callout strong {
+    background-color: rgba(var(--callout-warning), 0.1);
+    border-radius: .3em;
+    padding: .1em .3em;
+    margin: 0 .1em;
+    font-weight: var(--bold-weight)
+}
+
+.mermaid-fixer-setting-callout code {
+    font-family: var(--font-monospace);
+    margin: 0 .3em
+}
+
+.mermaid-fixer-highlight {
+    border: 2px solid rgba(var(--callout-warning), 0.3);
+    padding: .2em .5em;
+    border-radius: .5em;
+    font-weight: var(--bold-weight);
+    margin-left: calc(-0.5em - 2px)
+}
+
+.mermaid-fixer-svg-width { 
+    max-width: 100%; 
+    height: auto;
+  }
