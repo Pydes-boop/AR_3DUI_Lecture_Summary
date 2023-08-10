@@ -1,5 +1,5 @@
 # Summary of AR and 3D-Lecture
-Notes on Augmented Reality (AR) lecture and practical as well as 3 Dimensional User Interfaces (3D-UI) lecture and practical at Technical University of Munich (TUM).
+My personal notes on Augmented Reality (AR) lecture and practical as well as 3 Dimensional User Interfaces (3D-UI) lecture and practical at Technical University of Munich (TUM).
 You can either view the markdown files via obsidian or just view the generated PDFs directly.
 
 These notes are in a combined repository as many of the topics in these lectures overlap.
