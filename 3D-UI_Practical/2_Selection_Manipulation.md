@@ -56,7 +56,7 @@ Example: Raycasting from a Touchscreen Point into our Virtual Scene
 if(Input.touchCount > 0 && Input.touches[0].phase == TouchPhase.Began)
 {
 Ray ray = Camera.main.ScreenPointToRay(Input.GetTouch(0).position)
-if(Physics.Raycas(ray, out Hit))
+if(Physics.Raycast(ray, out Hit))
 	{
 		...
 	}

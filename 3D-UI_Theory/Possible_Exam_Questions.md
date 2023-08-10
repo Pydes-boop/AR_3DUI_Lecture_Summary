@@ -1,7 +1,44 @@
 ## Possible Exam Questions
 
 these Exam Questions were designed before i actually wrote the exam, they are not based on the exam
+## Questions
+1. Name 3 Application Areas for 3D User Interfaces and one advantage each area has with the inclusion of 3D User Interfaces? ★
 
+2. Imagine you are designing a VR Experience that requires text input. Explain possible approaches on how to add such an input to your experiences as well as one advantage and one disadvantage for each
+
+3. You are tasked to Design a Menu System for your new VR experience with limited input options. Name a possible non-wimp approach as well as their advantages / disadvantages for such a system. 
+
+4. Explain WIMP in the context of 3D User Interfaces. Use Terminology from the Lecture.
+
+5. Explain the difference between isomorphic and non-isomorphic input types:
+
+6. You are tasked with designing a visual showcase of a new Virtualized Reality Experience, specifically without using HMD (Head mounted display hardware) where users should just be able to enter a room and experience without any additional setup required. Name possible Options
+
+7. What other options do you have to give cues in a 3D Space to person
+
+8. Describe the steps to implement a AR Experience on your Phone in which you touch to recolour a 3D Object in your scene that is placed in an augmented reality space
+
+9. What is the difference between Unity and C# events?
+
+10. What are the three steps in Selection? name one example for each
+
+11. Name the two classifications of interaction methods and explain them with an example for each
+
+12. What are the three types of travel tasks? How do they correlate with wayfinding?
+
+13. What are the different types of spatial knowledge?
+
+14. Which kind of technology should you use to track the movement of a handheld device (smartphone) for your AR User experience?
+
+15. For an architecture visualisation what kind of 3D Data Structure should you use for your game? How would you get the 3D Scan data for your visualisation?
+
+16. For an application you are developing what would be the best approach to identify use-cases. Discuss and then apply one approach
+
+17. How do you make sure that the application you are developing and the user studies and surveys are staying Ethical?
+
+18. Name 3 Types of Attention and how you could survey the mental load different attention tasks had on a user for your application
+
+## Questions with Answers
 1. Name 3 Application Areas for 3D User Interfaces and one advantage each area has with the inclusion of 3D User Interfaces? ★
 	- Architecture Visualisation  → better immersion and more intuitive understanding of space when interacting in 6DoF instead of just at a Screen with traditional input
 	-  Scientific Visualization → Show off correlation of data points in more than 2 Dimensions without the potential of obscuring data
@@ -99,12 +136,18 @@ these Exam Questions were designed before i actually wrote the exam, they are no
 	- active with something like LIDAR would have higher precision and easier to create "Half meshes" without having the full picture
 	- passive like Photogrammetry needs more calculation and at best precise 6DoF Information about device placement in regards to 3D Scanning
 
-16. For XY what would be the best approach to identify use-cases. Discuss and then apply one approach (personas)
+16. For an application you are developing what would be the best approach to identify use-cases. Discuss and then apply one approach
+	- enviorment-analysis
+	- personas (First Hypothesis then conduct user interviews then refine hypothesis and then base persona on that)
 
-17. Ethics
+17. How do you make sure that the application you are developing and the user studies and surveys are staying Ethical?
+	- make sure of consent of the person
+	- make sure to remind them they can always opt out
+	- make sure the person can consent at all
+	- anonymize all data
 
-18. Human Cognition
-
-20. Survey ?!
-
-22. Guest Lectures
+18. Name 3 Types of Attention and how you could survey the mental load different attention tasks had on a user for your application
+	- focued attention
+	- selective attention
+	- divided attention
+	- NASA-TLX for testing the mental / physical load your application had on user
