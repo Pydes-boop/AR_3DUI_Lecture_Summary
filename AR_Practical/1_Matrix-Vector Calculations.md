@@ -253,7 +253,7 @@ $$
 C &= A \times B = 
 \begin{pmatrix}
 a_{11} b_{11} + \cdots + a_{1n} b_{n1} 
-& a_{11} b_{12} + \cdots + a_{2n} b_{n2} 
+& a_{11} b_{12} + \cdots + a_{1n} b_{n2} 
 & \cdots & a_{11} b_{1m} + \cdots + a_{1n} b_{nm}  \\
 a_{21} b_{11} + \cdots + a_{2n} b_{n1} 
 & a_{21} b_{12} + \cdots + a_{2n} b_{n2} 
